@@ -41,6 +41,6 @@ Each solution contains:
 | Day | Problem | Difficulty | Topic | Language |
 |-----|---------|------------|-------|----------|
 | 1 | Two Sum | Easy | Array / HashMap | Java |
-
+| 1 | Removing Minimum and Maximum From Array| Medium|Array |Java
 ## 👩‍💻 Author
 K Shravika
