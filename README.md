@@ -42,5 +42,6 @@ Each solution contains:
 |-----|---------|------------|-------|----------|
 | 1 | Two Sum | Easy | Array / HashMap | Java |
 | 1 | Removing Minimum and Maximum From Array| Medium|Array |Java
+| 2 | Find Critical Points in a Linked List| Linked List|Java|
 ## 👩‍💻 Author
 K Shravika

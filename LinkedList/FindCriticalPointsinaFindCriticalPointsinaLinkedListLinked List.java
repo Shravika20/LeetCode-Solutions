@@ -1,5 +1,4 @@
-/* 
- * Problem: Find Critical Points in a Linked List
+/* Problem: Find Critical Points in a Linked List
  * Difficulty: Medium
  * Topic: Linked List
  * Approach: Traverse the linked list and find local maxima/minima. 
