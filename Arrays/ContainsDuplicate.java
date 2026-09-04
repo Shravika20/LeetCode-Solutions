@@ -1,3 +1,16 @@
+/*
+ * Problem: Contains Duplicate
+ * Difficulty: Easy
+ * Topic: Array / HashSet
+ *
+ * Approach:
+ * Store each element in a HashSet.
+ * If an element is already present, a duplicate exists.
+ *
+ * Time Complexity: O(n)
+ * Space Complexity: O(n)
+ */
+
 import java.util.HashSet;
 import java.util.Scanner;
 public class ContainsDuplicate {

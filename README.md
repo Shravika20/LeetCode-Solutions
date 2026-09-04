@@ -44,5 +44,6 @@ Each solution contains:
 | 1 | Removing Minimum and Maximum From Array| Medium|Array |Java
 | 2 | Find Critical Points in a Linked List| Linked List|Java|
 | 3 | Minimum Moves to Collect All Litter | BFS|Java|
+| 4 | Contains Duplicate | Easy | Array / HashSet | Java |
 ## 👩‍💻 Author
 K Shravika
