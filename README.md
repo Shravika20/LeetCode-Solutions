@@ -45,5 +45,6 @@ Each solution contains:
 | 2 | Find Critical Points in a Linked List| Linked List|Java|
 | 3 | Minimum Moves to Collect All Litter | BFS|Java|
 | 4 | Contains Duplicate | Easy | Array / HashSet | Java |
+| 5 | MaximumScore of Non-overlapping Intervals | Hard |Sorting | Java |
 ## 👩‍💻 Author
 K Shravika
