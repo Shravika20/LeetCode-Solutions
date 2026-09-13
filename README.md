@@ -46,5 +46,6 @@ Each solution contains:
 | 3 | Minimum Moves to Collect All Litter | BFS|Java|
 | 4 | Contains Duplicate | Easy | Array / HashSet | Java |
 | 5 | MaximumScore of Non-overlapping Intervals | Hard |Sorting | Java |
+| 6 | Image Overlap | Medium | Matrix| Java |
 ## 👩‍💻 Author
 K Shravika
