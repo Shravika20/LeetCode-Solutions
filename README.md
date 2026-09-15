@@ -47,6 +47,7 @@ Each solution contains:
 | 4 | Contains Duplicate | Easy | Array / HashSet | Java |
 | 5 | MaximumScore of Non-overlapping Intervals | Hard |Sorting | Java |
 | 6 | Image Overlap | Medium | Matrix| Java |
-| 7 | Maximum number of non-overlapping Palindrome Substring | Hard | Dynamic programming | Java |
+| 7 | Rectangle Overlap | Easy | Matrix | Java |
+| 8 | Maximum number of non-overlapping Palindrome Substring | Hard | Dynamic programming | Java |
 ## 👩‍💻 Author
 K Shravika
