@@ -49,5 +49,6 @@ Each solution contains:
 | 6 | Image Overlap | Medium | Matrix| Java |
 | 7 | Rectangle Overlap | Easy | Matrix | Java |
 | 8 | Maximum number of non-overlapping Palindrome Substring | Hard | Dynamic programming | Java |
+| 9 | Number of Sets | Medium | Dynamic Programming | Java |
 ## 👩‍💻 Author
 K Shravika
