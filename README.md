@@ -50,5 +50,6 @@ Each solution contains:
 | 7 | Rectangle Overlap | Easy | Matrix | Java |
 | 8 | Maximum number of non-overlapping Palindrome Substring | Hard | Dynamic programming | Java |
 | 9 | Number of Sets | Medium | Dynamic Programming | Java |
+| 10 | Find two non-overlapping Palindrome substring | Medium | Dynamic programming | Java|
 ## 👩‍💻 Author
 K Shravika
