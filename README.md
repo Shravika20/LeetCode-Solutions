@@ -51,5 +51,6 @@ Each solution contains:
 | 8 | Maximum number of non-overlapping Palindrome Substring | Hard | Dynamic programming | Java |
 | 9 | Number of Sets | Medium | Dynamic Programming | Java |
 | 10 | Find two non-overlapping Palindrome substring | Medium | Dynamic programming | Java|
+| 11 | Find Maximum number of Non-Overlapping Substrings | Hard | Strings | Java |
 ## 👩‍💻 Author
 K Shravika
