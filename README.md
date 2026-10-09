@@ -53,5 +53,6 @@ Each solution contains:
 | 10 | Find two non-overlapping Palindrome substring | Medium | Dynamic programming | Java|
 | 11 | Find Maximum number of Non-Overlapping Substrings | Hard | Strings | Java |
 | 12 | Circle and Rectangle Overlapping | Medium | Math | Java |
+| 13 |  Minimum Insertions to Balance a Parentheses String | Medium | Strings | Java |
 ## 👩‍💻 Author
 K Shravika
