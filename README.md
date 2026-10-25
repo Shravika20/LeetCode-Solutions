@@ -54,5 +54,6 @@ Each solution contains:
 | 11 | Find Maximum number of Non-Overlapping Substrings | Hard | Strings | Java |
 | 12 | Circle and Rectangle Overlapping | Medium | Math | Java |
 | 13 |  Minimum Insertions to Balance a Parentheses String | Medium | Strings | Java |
+| 14 | Number of Closed Islands | Medium | Array | Java |
 ## 👩‍💻 Author
 K Shravika
